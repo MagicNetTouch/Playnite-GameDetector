@@ -1,0 +1,1 @@
+GameDetector is a powershell script for Playnite laucher that can detect your DRM Free games on varius source paths (user specify) in local or network paths copy it on your local disk or choise using free program teracopy to take advantage of if functions to ingore/retry/pause/que multiple copies and much more.
