@@ -25,4 +25,4 @@ $enableGameDetectorGUI = $true
 </p>
 
 </br>
-Notice the every custom game need to have root game folder as installation path example: </br>D:\Games\MyGame and not </br>D:\Games\MyGame\Bin\x64
+Notice that every custom game needs to have root game folder as installation path example: </br>D:\Games\MyGame and not </br>D:\Games\MyGame\Bin\x64
