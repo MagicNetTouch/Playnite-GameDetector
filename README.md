@@ -9,6 +9,7 @@ Create a folder on desktop with name "GameDetector" copy all files in it (AddUpd
 
 Now create a text file in same folder with name "gamesources.txt" and add the paths that you store your games, local or network path one per line
 example:
+
 \\\192.168.0.10\games1\GAMES
 
 L:\GAMES
