@@ -11,10 +11,10 @@ Now create a text file in same folder with name "gamesources.txt" and add the pa
 example:
 
 \\\192.168.0.10\games1\GAMES
-
 L:\GAMES
 
 Files are ready now need to configure Playnite, in order to add script on right click menu on every game easily goto Settings (F4) > Scrips > Scripts that run before game starts and add this 2 lines of script, this will make sure that add or update 2 options on every Custom game's right click menu GameDetector and GameDetectorGUI:
+
 $desktopPath = [Environment]::GetFolderPath("Desktop")
 . "$desktopPath\GameDetector\AddUpdateGameDetector.ps1"
 
