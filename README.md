@@ -19,8 +19,10 @@ $desktopPath = [Environment]::GetFolderPath("Desktop")</br>
 . "$desktopPath\GameDetector\AddUpdateGameDetector.ps1"
 
 Every time you lunche any game this script above will add or update the options on every Custom (user added) game, there is option to disable any or both options from right click menu by editing the two first lines in "AddUpdateGameDetector.ps1" script and set from $true to $false:
-<p>$enableGameDetector = $true
-$enableGameDetectorGUI = $true</p>
+<p>
+$enableGameDetector = $true</br>
+$enableGameDetectorGUI = $true
+</p>
 
 </br>
-Notice the every custom game need to have root game folder as installation path example: D:\Games\MyGame and not D:\Games\MyGame\Bin\x64
+Notice the every custom game need to have root game folder as installation path example: </br>D:\Games\MyGame and not D:\Games\MyGame\Bin\x64
