@@ -1,4 +1,4 @@
-GameDetector is a powershell script for Playnite laucher that can detect your DRM Free games on varius source paths (user specify) in local or network paths copy it on your local disk of choise using free program Teracopy to take advantage of if functions to ingore/retry/pause/que multiple copies and much more.
+GameDetector is a powershell script for Playnite laucher that can detect your DRM Free games on varius source paths (user specify) in local or network paths copy it on your local disk of choise using free program Teracopy to take advantage of it's functions to ingore/retry/pause/que multiple copies and much more.
 
 <b>GameDetector</b> is simple messagebox script that ask you what to do on every situation, also  required to presetup in script the install distination of choise.</br>
 <b>GameDetectorGUI</b> provides you with UI interface that let you choose distination drive calculate the size of the game needed and also have the ability to free up space.
